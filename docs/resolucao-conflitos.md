@@ -72,5 +72,7 @@ $ git push origin master
 ##  Ferramentas Utilizadas
 
 Vim: O arquivo do conflito foi editado utilizando vim para resolver as diferenças.
+
 Git: Ferramenta de versionamento utilizada para integrar as mudanças, resolver conflitos e concluir o merge.
+
 GitHub: Plataforma utilizada para hospedar o repositório e colaborar no desenvolvimento do projeto.
