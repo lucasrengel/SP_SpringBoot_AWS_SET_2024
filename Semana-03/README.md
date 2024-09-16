@@ -2,4 +2,7 @@
 
 ## Resumo
 
+
 Essa semana nao chegou ainda.
+
+Nesta semana irei aprender algo que nao sei ainda :p
