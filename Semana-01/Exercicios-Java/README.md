@@ -2,6 +2,8 @@
 
 Esse é um projeto simples que fiz e pratiquei os exercicios de Java no curso do Nélio Alves.
 
+Os enunciados dos exercícios estão incluídos como comentários dentro de cada classe.
+
 
 ## 📋 Pré-requisitos
 
