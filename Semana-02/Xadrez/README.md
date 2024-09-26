@@ -46,8 +46,7 @@ cd SP_SpringBoot_AWS_SET_2024/Semana-02/Xadrez/
 3. Importe o projeto em sua IDE. E
 execute a classe principal (Program) localizada no pacote application ou compile ela:
 ```
-javac src/application/Program.java
-java src.application.Program
+java .\src\application\Program.java 
 ```
 
 
