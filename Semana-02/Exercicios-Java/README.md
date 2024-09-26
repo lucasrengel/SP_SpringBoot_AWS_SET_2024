@@ -29,8 +29,7 @@ Você também vai precisar de uma IDE como Eclipse, IntelliJ IDEA ou Visual Stud
    Para compilar e rodar via linha de comando:
 
     ```
-    javac src/heranca/exercicio01/application/Program.java
-    java src.heranca.exercicios01.application.Program
+    java .\Exercicios-Java\src\heranca\exercicio01\application\Program.java
     ```
    Faça o mesmo para os outros arquivos e pastas.
 
