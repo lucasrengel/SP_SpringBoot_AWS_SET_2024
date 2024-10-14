@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "670d281b66ce1e00a04094bc"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "year": 1950,
+  "genre": "Ficção Científica",
+  "_class": "com.lucas.library_project.model.Book"
+},
+{
+  "_id": {
+    "$oid": "670d284266ce1e00a04094be"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "year": 1954,
+  "genre": "Fantasia",
+  "_class": "com.lucas.library_project.model.Book"
+},
+{
+  "_id": {
+    "$oid": "670d285566ce1e00a04094bf"
+  },
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "year": 1945,
+  "genre": "Fábula",
+  "_class": "com.lucas.library_project.model.Book"
+},
+{
+  "_id": {
+    "$oid": "670d2ad0894dca648fa99fe1"
+  },
+  "title": "Dom Casmurro",
+  "author": "Machado de Assis",
+  "year": 1899,
+  "genre": "Romance"
+}]
